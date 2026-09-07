@@ -1,0 +1,17 @@
+{
+  "id": "STS2_Pokemon_Trainer",
+  "name": "Pokemon Trainer",
+  "author": "Fleggy",
+  "description": "Adds the Pokemon Trainer",
+  "version": "0.1.0",
+  "min_game_version": "0.107.1",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {
+      "id": "BaseLib",
+      "min_version": "3.3.0"
+    }
+  ],
+  "affects_gameplay": true 
+}
