@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://dpjt7mbtg7don"]
+
+[ext_resource type="Texture2D" uid="uid://bek1bwt182n8c" path="res://Pokemon/images/Surprised_Pikachu.png" id="1_4gcbn"]
+
+[node name="CharSelect" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(581.75, 323.875)
+scale = Vector2(2.4929998, 1.5840961)
+texture = ExtResource("1_4gcbn")
