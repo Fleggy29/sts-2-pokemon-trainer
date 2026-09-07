@@ -32,7 +32,7 @@ public class StrikePokemon : CustomCardModel
     // Base card values (e.g. 12 damage)
     protected override IEnumerable<DynamicVar> CanonicalVars => [new DamageVar(6, ValueProp.Move)];
 
-	public override string PortraitPath => $"res://STS2_Pokemon_Trainer/images/cards/{nameof(StrikePokemon)}.png";
+	public override string PortraitPath => $"res://Pokemon/images/cards/{nameof(StrikePokemon)}.png";
 
     public StrikePokemon() : base(energyCost, type, rarity, targetType, shouldShowInCardLibrary)
     {

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqxhbylr07705"
-path="res://.godot/imported/StrikePokemon.png-6744249cbe9460fd068d124cd3c7907a.ctex"
+path="res://.godot/imported/StrikePokemon.png-7b7bb8f709fe0db2b1e6aaa190502e4b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://STS2_Pokemon_Trainer/images/cards/StrikePokemon.png"
-dest_files=["res://.godot/imported/StrikePokemon.png-6744249cbe9460fd068d124cd3c7907a.ctex"]
+source_file="res://Pokemon/images/cards/StrikePokemon.png"
+dest_files=["res://.godot/imported/StrikePokemon.png-7b7bb8f709fe0db2b1e6aaa190502e4b.ctex"]
 
 [params]
 
